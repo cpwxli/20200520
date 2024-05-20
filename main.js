@@ -30,7 +30,7 @@ const clock = new THREE.Clock(false);
 
 const loader = new FontLoader();
 // loader.load("fonts/helvetiker_bold.typeface.json", function (font) {
-loader.load("fonts/Microsoft_YaHei_Regular.json", function (font) {
+loader.load("fonts/MicrosoftYaHei.json.json", function (font) {
   init(font);
 
   clock.start();
