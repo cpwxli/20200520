@@ -1,8 +1,8 @@
 import * as THREE from "https://esm.sh/three";
-import { FontLoader } from "three/addons/loaders/FontLoader.js";
-import { TextGeometry } from "three/addons/geometries/TextGeometry.js";
-import { MeshSurfaceSampler } from "three/addons/math/MeshSurfaceSampler.js";
-import { GPUComputationRenderer } from "https://esm.sh/three@0.164.1/examples/jsm/misc/GPUComputationRenderer";
+import { FontLoader } from "https://esm.sh/three/examples/jsm/loaders/FontLoader.js";
+import { TextGeometry } from "https://esm.sh/three/examples/jsm/geometries/TextGeometry.js";
+import { MeshSurfaceSampler } from "https://esm.sh/three/examples/jsm/math/MeshSurfaceSampler.js";
+import { GPUComputationRenderer } from "https://esm.sh/three/examples/jsm/misc/GPUComputationRenderer";
 import { OrbitControls } from "https://esm.sh/three/examples/jsm/controls/OrbitControls";
 // import Stats from "three/addons/libs/stats.module.js";
 // import { GUI } from "three/addons/libs/lil-gui.module.min.js";
